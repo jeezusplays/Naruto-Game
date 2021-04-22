@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sakura
+  m_Controller: {fileID: 9100000, guid: 593b68f3d88ad4345aece91bd11513a2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 887259d70052cfb41b7e1283b7a9b2ea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ae21930117e1a3d47b16a49b67eda5b6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 15f40500e65d4ec47833c0be21bb4c2d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 39dd543c6d0525844b546dbbf655d183, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d61392e60428fd544959591fa7786961, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5f7b8c690fc37624eb641f0e313bcb8e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ac62333d0a2c53e45870f84958aa870d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bc1c9bde9b81ede459be70985ea0b2df, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d359bda6a06d46245be55dee78b15c53, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 18d043bc494a4e14ab6505ccc6fe2ac9, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29e3c5a55ee45b4c9d41947b4941d37, type: 3}
+  m_Name: SoundNinja_BaseData
+  m_EditorClassIdentifier: 
+  maxHealth: 3
+  damageHopSpeed: 2
+  wallCheckDistance: 0.2
+  ledgeCheckDistance: 0.4
+  groundCheckRadius: 0.3
+  minAgroDistance: 3
+  maxAgroDistance: 4
+  stunResistance: 1
+  recoveryTime: 2
+  closeRangeActionDistance: 1
+  whatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 256
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 1024

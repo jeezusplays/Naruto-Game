@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f6fa391ff0813a842a480061f39874f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ninja Naruto
+  fontNames:
+  - Ninja Naruto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9e48b731160b2a04ebe3a84514bc57ed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: cde1cfeeece2f7648832d152ce867a19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2084527752458048922
+    second: sound_ninja2_0
+  - first:
+      213: -641498281133766324
+    second: sound_ninja2_1
+  - first:
+      213: 2560024391914620232
+    second: sound_ninja2_2
+  - first:
+      213: -6388735891596021647
+    second: sound_ninja2_3
+  - first:
+      213: -2165431492532355629
+    second: sound_ninja2_4
+  - first:
+      213: -2485952813593189420
+    second: sound_ninja2_5
+  - first:
+      213: -8543913959015140879
+    second: sound_ninja2_6
+  - first:
+      213: -1948098873633787153
+    second: sound_ninja2_7
+  - first:
+      213: 5815034037089040595
+    second: sound_ninja2_8
+  - first:
+      213: 2696065161153465053
+    second: sound_ninja2_9
+  - first:
+      213: 1841687418435421780
+    second: sound_ninja2_10
+  - first:
+      213: 431822703557226976
+    second: sound_ninja2_11
+  - first:
+      213: 8371622030300686852
+    second: sound_ninja2_12
+  - first:
+      213: 8509436846794726079
+    second: sound_ninja2_13
+  - first:
+      213: -5440453701032748587
+    second: sound_ninja2_14
+  - first:
+      213: -3547323668614953003
+    second: sound_ninja2_15
+  - first:
+      213: -6354937677606684736
+    second: sound_ninja2_16
+  - first:
+      213: -1565871501527037680
+    second: sound_ninja2_17
+  - first:
+      213: -2038729438118169960
+    second: sound_ninja2_18
+  - first:
+      213: -4469200346839621020
+    second: sound_ninja2_19
+  - first:
+      213: -1994171569284635101
+    second: sound_ninja2_20
+  - first:
+      213: -5088027238948649094
+    second: sound_ninja2_21
+  - first:
+      213: 6356152144685719276
+    second: sound_ninja2_22
+  - first:
+      213: -4198986139214181752
+    second: sound_ninja2_23
+  - first:
+      213: -2217324502673523324
+    second: sound_ninja2_24
+  - first:
+      213: -1471388985114137910
+    second: sound_ninja2_25
+  - first:
+      213: 4459379824577972428
+    second: sound_ninja2_26
+  - first:
+      213: 1776448264081521341
+    second: sound_ninja2_27
+  - first:
+      213: 5044308747984154964
+    second: sound_ninja2_29
+  - first:
+      213: 5574926088482108235
+    second: sound_ninja2_30
+  - first:
+      213: -7829821785569229055
+    second: sound_ninja2_31
+  - first:
+      213: -6268540979104626930
+    second: sound_ninja2_32
+  - first:
+      213: -7989674761707430756
+    second: sound_ninja2_33
+  - first:
+      213: -8709755277367216337
+    second: sound_ninja2_34
+  - first:
+      213: -5483904383431640854
+    second: sound_ninja2_35
+  - first:
+      213: -2538249721394214157
+    second: sound_ninja2_36
+  - first:
+      213: -1082162977413917975
+    second: sound_ninja2_37
+  - first:
+      213: 4155460806620604116
+    second: sound_ninja2_38
+  - first:
+      213: 2825885625773437691
+    second: sound_ninja2_39
+  - first:
+      213: -4122919882678117840
+    second: sound_ninja2_40
+  - first:
+      213: -3538137723220614711
+    second: sound_ninja2_43
+  - first:
+      213: -3183171759419263461
+    second: sound_ninja2_44
+  - first:
+      213: 1393291813053029494
+    second: sound_ninja2_45
+  - first:
+      213: 7254976861576196075
+    second: sound_ninja2_46
+  - first:
+      213: 6298210122353044574
+    second: sound_ninja2_47
+  - first:
+      213: 103078683698332041
+    second: sound_ninja2_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sound_ninja2_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 450
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6b4ead054213e0800000000000000
+      internalID: -2084527752458048922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 523
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498ffc46b0f817f0800000000000000
+      internalID: -641498281133766324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 529
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450860fe98078320800000000000000
+      internalID: 2560024391914620232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 523
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17071a93e86a657a0800000000000000
+      internalID: -6388735891596021647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 531
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3a2ec787d2f1e0800000000000000
+      internalID: -2165431492532355629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 523
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32561561f108dd0800000000000000
+      internalID: -2485952813593189420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 524
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b669958bed6980800000000000000
+      internalID: -8543913959015140879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 523
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe238b95566f6f4e0800000000000000
+      internalID: -1948098873633787153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 523
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d87f79b5a623b050800000000000000
+      internalID: 5815034037089040595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 523
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddacbddcaf85a6520800000000000000
+      internalID: 2696065161153465053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 523
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456462b03fcfe8910800000000000000
+      internalID: 1841687418435421780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 523
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e13a7306742ef500800000000000000
+      internalID: 431822703557226976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 523
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a28edb1e9fd2470800000000000000
+      internalID: 8371622030300686852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 450
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbad1db2ab7971670800000000000000
+      internalID: 8509436846794726079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 450
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9dbf40f20af74b0800000000000000
+      internalID: -5440453701032748587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 449
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7cedcfaef55cec0800000000000000
+      internalID: -3547323668614953003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 452
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7f1842ad9bec7a0800000000000000
+      internalID: -6354937677606684736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 382
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c29b6a28e44ae0800000000000000
+      internalID: -1565871501527037680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 382
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b5dfa06af4b3e0800000000000000
+      internalID: -2038729438118169960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 324
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4626290a6f53af1c0800000000000000
+      internalID: -4469200346839621020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 324
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262b97f5874354e0800000000000000
+      internalID: -1994171569284635101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 324
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7744f60f22b369b0800000000000000
+      internalID: -5088027238948649094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 324
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee545203b6953850800000000000000
+      internalID: 6356152144685719276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 324
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a89538a543ab5c0800000000000000
+      internalID: -4198986139214181752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 324
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dff5adc1b7a31e0800000000000000
+      internalID: -2217324502673523324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 239
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca69d78383949be0800000000000000
+      internalID: -1471388985114137910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8838ad256e2ed30800000000000000
+      internalID: 4459379824577972428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 239
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba307eb84637a810800000000000000
+      internalID: 1776448264081521341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 239
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451bdf4941cf00640800000000000000
+      internalID: 5044308747984154964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 241
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b8018dbd1e5d40800000000000000
+      internalID: 5574926088482108235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_31
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 245
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1070888f192e65390800000000000000
+      internalID: -7829821785569229055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 243
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074d70113ba109a0800000000000000
+      internalID: -6268540979104626930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 243
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5685a229fe1190800000000000000
+      internalID: -7989674761707430756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_34
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 241
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2771f3b8bbb02780800000000000000
+      internalID: -8709755277367216337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8795ba40245e3b0800000000000000
+      internalID: -5483904383431640854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 165
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa401d935356ccd0800000000000000
+      internalID: -2538249721394214157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 162
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21a2e61826bf0f0800000000000000
+      internalID: -1082162977413917975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 159
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6eda846992ba930800000000000000
+      internalID: 4155460806620604116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_39
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 161
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2bb142100973720800000000000000
+      internalID: 2825885625773437691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_40
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 162
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a539bf53278c6c0800000000000000
+      internalID: -4122919882678117840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_43
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 164
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a6019c7206eec0800000000000000
+      internalID: -3538137723220614711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_44
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 165
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1672c4662a13d3d0800000000000000
+      internalID: -3183171759419263461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_45
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 168
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c5c71a587f55310800000000000000
+      internalID: 1393291813053029494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_46
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 176
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef6def540bdea460800000000000000
+      internalID: 7254976861576196075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 182
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6f97acbcb76750800000000000000
+      internalID: 6298210122353044574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound_ninja2_48
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 183
+        width: 46
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98101c544853e6100800000000000000
+      internalID: 103078683698332041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

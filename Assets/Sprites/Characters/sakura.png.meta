@@ -1,0 +1,5504 @@
+fileFormatVersion: 2
+guid: bb3ecd787525f334198bf38a841e2972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8148291930259611260
+    second: sakura_0
+  - first:
+      213: -3850093700423348289
+    second: sakura_1
+  - first:
+      213: -1182910532649448026
+    second: sakura_2
+  - first:
+      213: 5988102641577185307
+    second: sakura_3
+  - first:
+      213: -5306843529679167718
+    second: sakura_4
+  - first:
+      213: 8193083749139156874
+    second: sakura_5
+  - first:
+      213: -7988122178455095733
+    second: sakura_6
+  - first:
+      213: -8634412380757904128
+    second: sakura_7
+  - first:
+      213: -5154869582093062586
+    second: sakura_8
+  - first:
+      213: 7597958393461289448
+    second: sakura_9
+  - first:
+      213: 4903192173999635484
+    second: sakura_10
+  - first:
+      213: -30605685206679012
+    second: sakura_11
+  - first:
+      213: 2604330487483275672
+    second: sakura_12
+  - first:
+      213: -2767416254115019081
+    second: sakura_13
+  - first:
+      213: -4292380119052544755
+    second: sakura_14
+  - first:
+      213: 5476073238762142900
+    second: sakura_15
+  - first:
+      213: 7441716231769652427
+    second: sakura_16
+  - first:
+      213: 4716692808801999163
+    second: sakura_17
+  - first:
+      213: 1263905347460587416
+    second: sakura_18
+  - first:
+      213: -6471748279707772783
+    second: sakura_19
+  - first:
+      213: -324877643970413744
+    second: sakura_20
+  - first:
+      213: 2308633348380237993
+    second: sakura_21
+  - first:
+      213: -7020536896013881621
+    second: sakura_22
+  - first:
+      213: 6125778015019496851
+    second: sakura_23
+  - first:
+      213: 2533290531626713058
+    second: sakura_24
+  - first:
+      213: 8755727423508401498
+    second: sakura_25
+  - first:
+      213: 433066876400859687
+    second: sakura_26
+  - first:
+      213: -3208292821520808835
+    second: sakura_27
+  - first:
+      213: 5105254723937253560
+    second: sakura_28
+  - first:
+      213: -6555592185389046031
+    second: sakura_29
+  - first:
+      213: 486215214146621945
+    second: sakura_30
+  - first:
+      213: -7952806699209143871
+    second: sakura_31
+  - first:
+      213: -7617585768576333823
+    second: sakura_32
+  - first:
+      213: 7301328219877927436
+    second: sakura_33
+  - first:
+      213: -8882710080456719297
+    second: sakura_34
+  - first:
+      213: 8523250847354672207
+    second: sakura_35
+  - first:
+      213: 8295231092850620418
+    second: sakura_36
+  - first:
+      213: 4424138726849297396
+    second: sakura_37
+  - first:
+      213: 7153006342041922495
+    second: sakura_38
+  - first:
+      213: -1194792082221002
+    second: sakura_39
+  - first:
+      213: -1495992322827405301
+    second: sakura_40
+  - first:
+      213: -1218655130525915971
+    second: sakura_41
+  - first:
+      213: -3751049800601442932
+    second: sakura_42
+  - first:
+      213: -6959883472060652717
+    second: sakura_43
+  - first:
+      213: -3102329584138590588
+    second: sakura_44
+  - first:
+      213: -1059509831550891063
+    second: sakura_45
+  - first:
+      213: 1073894436940113940
+    second: sakura_46
+  - first:
+      213: -6125433427040389771
+    second: sakura_47
+  - first:
+      213: 7719885503332503486
+    second: sakura_48
+  - first:
+      213: -575196798929741492
+    second: sakura_49
+  - first:
+      213: 763377073565539253
+    second: sakura_50
+  - first:
+      213: -45840612049566771
+    second: sakura_51
+  - first:
+      213: -7529132194124642411
+    second: sakura_52
+  - first:
+      213: -7130893517137921052
+    second: sakura_53
+  - first:
+      213: -5444862819241413019
+    second: sakura_54
+  - first:
+      213: 8801220931318069728
+    second: sakura_55
+  - first:
+      213: -8291773903109626560
+    second: sakura_56
+  - first:
+      213: 7940596481720182664
+    second: sakura_57
+  - first:
+      213: 2713594216103674592
+    second: sakura_58
+  - first:
+      213: 5990463789881061254
+    second: sakura_59
+  - first:
+      213: 7910021216034809265
+    second: sakura_60
+  - first:
+      213: 2839960690447855836
+    second: sakura_61
+  - first:
+      213: 6700417745518594521
+    second: sakura_62
+  - first:
+      213: -2288675607847493974
+    second: sakura_63
+  - first:
+      213: 5757859376135912406
+    second: sakura_64
+  - first:
+      213: -15678056859972946
+    second: sakura_65
+  - first:
+      213: -5518939113316716078
+    second: sakura_66
+  - first:
+      213: -4622064435128544334
+    second: sakura_67
+  - first:
+      213: -2348912363622620153
+    second: sakura_68
+  - first:
+      213: -1123261514428247400
+    second: sakura_69
+  - first:
+      213: -7347753352890650276
+    second: sakura_70
+  - first:
+      213: -4267781528249816119
+    second: sakura_71
+  - first:
+      213: -5732096804760149862
+    second: sakura_72
+  - first:
+      213: -5380549866162891636
+    second: sakura_73
+  - first:
+      213: -2480508142044720615
+    second: sakura_74
+  - first:
+      213: -6288713023856959997
+    second: sakura_75
+  - first:
+      213: -7121740444795162139
+    second: sakura_76
+  - first:
+      213: 4325452162533865669
+    second: sakura_77
+  - first:
+      213: 866303591958938281
+    second: sakura_78
+  - first:
+      213: -1610952551467068354
+    second: sakura_79
+  - first:
+      213: -4536048721270263084
+    second: sakura_80
+  - first:
+      213: -1744412310908073746
+    second: sakura_81
+  - first:
+      213: 5537187821940803966
+    second: sakura_82
+  - first:
+      213: 8520046393958054206
+    second: sakura_83
+  - first:
+      213: -3044669525950666223
+    second: sakura_84
+  - first:
+      213: -2983147017378902273
+    second: sakura_85
+  - first:
+      213: -52765747488328763
+    second: sakura_86
+  - first:
+      213: -5378988627937618155
+    second: sakura_87
+  - first:
+      213: 159186006987968723
+    second: sakura_88
+  - first:
+      213: 4456908707375728341
+    second: sakura_89
+  - first:
+      213: -8589912605683892903
+    second: sakura_90
+  - first:
+      213: 510066628696575426
+    second: sakura_91
+  - first:
+      213: 2723657001170313710
+    second: sakura_92
+  - first:
+      213: 2569528587747040747
+    second: sakura_93
+  - first:
+      213: 4071220664439156435
+    second: sakura_94
+  - first:
+      213: 7038832107084402854
+    second: sakura_95
+  - first:
+      213: 6153121753418368598
+    second: sakura_96
+  - first:
+      213: 727428366527194424
+    second: sakura_97
+  - first:
+      213: -9150681038535314074
+    second: sakura_98
+  - first:
+      213: 3006254107676253987
+    second: sakura_99
+  - first:
+      213: 4352663411772616113
+    second: sakura_100
+  - first:
+      213: 8511716818233395739
+    second: sakura_101
+  - first:
+      213: 2124619079770655469
+    second: sakura_102
+  - first:
+      213: 1819861398696045965
+    second: sakura_103
+  - first:
+      213: -8593612899246417321
+    second: sakura_104
+  - first:
+      213: -1807842009256828976
+    second: sakura_105
+  - first:
+      213: -3313787130699646431
+    second: sakura_106
+  - first:
+      213: 548188020881253674
+    second: sakura_107
+  - first:
+      213: 8542328184307506509
+    second: sakura_108
+  - first:
+      213: -7665164548921923649
+    second: sakura_109
+  - first:
+      213: 7340968140194185962
+    second: sakura_110
+  - first:
+      213: 477426898332494277
+    second: sakura_111
+  - first:
+      213: -7148823369225330875
+    second: sakura_112
+  - first:
+      213: -2779337663461692471
+    second: sakura_113
+  - first:
+      213: -207971947398008246
+    second: sakura_114
+  - first:
+      213: -6290739382096109113
+    second: sakura_115
+  - first:
+      213: 2358280168046366594
+    second: sakura_116
+  - first:
+      213: -4410154899049050248
+    second: sakura_117
+  - first:
+      213: 8432472929536187496
+    second: sakura_118
+  - first:
+      213: 8319947346937371324
+    second: sakura_119
+  - first:
+      213: -6252033866105204038
+    second: sakura_120
+  - first:
+      213: 8136778359903936726
+    second: sakura_121
+  - first:
+      213: 7153518407118007047
+    second: sakura_122
+  - first:
+      213: -584880479192114736
+    second: sakura_123
+  - first:
+      213: 5309017445492149492
+    second: sakura_124
+  - first:
+      213: 3209240032777534609
+    second: sakura_125
+  - first:
+      213: 8494718745069819316
+    second: sakura_126
+  - first:
+      213: 7147943359354625004
+    second: sakura_127
+  - first:
+      213: -2248799833915613208
+    second: sakura_128
+  - first:
+      213: 8333653853695229461
+    second: sakura_129
+  - first:
+      213: -1937741688625548948
+    second: sakura_130
+  - first:
+      213: -4948612070303670445
+    second: sakura_131
+  - first:
+      213: 4610904415782895301
+    second: sakura_132
+  - first:
+      213: 7011009096415583114
+    second: sakura_133
+  - first:
+      213: 2616098767798614965
+    second: sakura_134
+  - first:
+      213: -5603311576914325718
+    second: sakura_135
+  - first:
+      213: 902039526044302699
+    second: sakura_136
+  - first:
+      213: 1377105181936965444
+    second: sakura_137
+  - first:
+      213: -7744615399665834901
+    second: sakura_138
+  - first:
+      213: 5453949863598938947
+    second: sakura_139
+  - first:
+      213: 4716433635648572299
+    second: sakura_140
+  - first:
+      213: -6962040055788633674
+    second: sakura_141
+  - first:
+      213: 7408172356190499882
+    second: sakura_142
+  - first:
+      213: -5436090516570173255
+    second: sakura_143
+  - first:
+      213: 9082393857808845169
+    second: sakura_144
+  - first:
+      213: 4704563455953352680
+    second: sakura_145
+  - first:
+      213: 7544598505189566401
+    second: sakura_146
+  - first:
+      213: 6408717263755167590
+    second: sakura_147
+  - first:
+      213: 5599210266420418513
+    second: sakura_148
+  - first:
+      213: 6321594997541596151
+    second: sakura_149
+  - first:
+      213: -6901293489182584205
+    second: sakura_150
+  - first:
+      213: 8463393705275819051
+    second: sakura_151
+  - first:
+      213: -772892332412006572
+    second: sakura_152
+  - first:
+      213: -3502279867316983988
+    second: sakura_153
+  - first:
+      213: 4222944014789368983
+    second: sakura_154
+  - first:
+      213: -3556776210354220276
+    second: sakura_155
+  - first:
+      213: 7954553225392509655
+    second: sakura_156
+  - first:
+      213: -6656695491458976232
+    second: sakura_157
+  - first:
+      213: 9150222158118970400
+    second: sakura_158
+  - first:
+      213: -7018531849672376954
+    second: sakura_159
+  - first:
+      213: -1031715085506841027
+    second: sakura_160
+  - first:
+      213: -7654040005240111470
+    second: sakura_161
+  - first:
+      213: -1841756783045832151
+    second: sakura_162
+  - first:
+      213: 8125733344440119326
+    second: sakura_163
+  - first:
+      213: 6898634522478821278
+    second: sakura_164
+  - first:
+      213: -2253128719750418634
+    second: sakura_165
+  - first:
+      213: -846212266205795284
+    second: sakura_166
+  - first:
+      213: 8243282732172872352
+    second: sakura_167
+  - first:
+      213: -2230848744729339446
+    second: sakura_168
+  - first:
+      213: -5056375864943107497
+    second: sakura_169
+  - first:
+      213: -2042509632830440974
+    second: sakura_170
+  - first:
+      213: 1522941128990681756
+    second: sakura_171
+  - first:
+      213: -4279930671504210255
+    second: sakura_172
+  - first:
+      213: -7199133504764540575
+    second: sakura_173
+  - first:
+      213: 8198971420574236143
+    second: sakura_174
+  - first:
+      213: -3369388384264396835
+    second: sakura_175
+  - first:
+      213: -8895699262718274441
+    second: sakura_176
+  - first:
+      213: -6505141654646358867
+    second: sakura_177
+  - first:
+      213: -5832754894502008283
+    second: sakura_178
+  - first:
+      213: -3365894388715595020
+    second: sakura_179
+  - first:
+      213: -9111947075739511458
+    second: sakura_180
+  - first:
+      213: 5324452652442376374
+    second: sakura_181
+  - first:
+      213: 1299843113115579309
+    second: sakura_182
+  - first:
+      213: -673462211769349955
+    second: sakura_183
+  - first:
+      213: -5250306617985653790
+    second: sakura_184
+  - first:
+      213: 6494861794030048942
+    second: sakura_185
+  - first:
+      213: -8361353766011444752
+    second: sakura_186
+  - first:
+      213: -1669292521078604376
+    second: sakura_187
+  - first:
+      213: 4729520024033103704
+    second: sakura_188
+  - first:
+      213: 8855332715622422645
+    second: sakura_189
+  - first:
+      213: -960753640643265460
+    second: sakura_190
+  - first:
+      213: 3905075897374437977
+    second: sakura_191
+  - first:
+      213: 3174212383290539759
+    second: sakura_192
+  - first:
+      213: 4321884625630400331
+    second: sakura_193
+  - first:
+      213: -2883850381603714222
+    second: sakura_194
+  - first:
+      213: -8679955020231657254
+    second: sakura_195
+  - first:
+      213: 6289271086257767996
+    second: sakura_196
+  - first:
+      213: 8029762845695620136
+    second: sakura_197
+  - first:
+      213: 3901475251466727581
+    second: sakura_198
+  - first:
+      213: 3181602311631512833
+    second: sakura_199
+  - first:
+      213: -715028275988484685
+    second: sakura_200
+  - first:
+      213: -8139592752387620037
+    second: sakura_201
+  - first:
+      213: -5618693529670266991
+    second: sakura_202
+  - first:
+      213: 906443190455551560
+    second: sakura_203
+  - first:
+      213: 7557497159221033800
+    second: sakura_204
+  - first:
+      213: -2099222711095536207
+    second: sakura_205
+  - first:
+      213: 8028947535354137876
+    second: sakura_206
+  - first:
+      213: 902683504732649634
+    second: sakura_207
+  - first:
+      213: 3484504392992833254
+    second: sakura_208
+  - first:
+      213: -4973497444052590
+    second: sakura_209
+  - first:
+      213: 8543357917869278928
+    second: sakura_210
+  - first:
+      213: 36310796070839402
+    second: sakura_211
+  - first:
+      213: -7664927809656608309
+    second: sakura_212
+  - first:
+      213: 2612047254185630651
+    second: sakura_213
+  - first:
+      213: 3538748607498647904
+    second: sakura_214
+  - first:
+      213: 3414083245096707223
+    second: sakura_215
+  - first:
+      213: 7625873644098951054
+    second: sakura_216
+  - first:
+      213: -197440115530427532
+    second: sakura_217
+  - first:
+      213: -53174894756763911
+    second: sakura_218
+  - first:
+      213: 1440551112813064720
+    second: sakura_219
+  - first:
+      213: -5546170259478617244
+    second: sakura_220
+  - first:
+      213: -9188215642422428195
+    second: sakura_221
+  - first:
+      213: -4517267857470629855
+    second: sakura_222
+  - first:
+      213: -2122218635310505607
+    second: sakura_223
+  - first:
+      213: -323484200938551862
+    second: sakura_224
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sakura_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1686
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e5e4dc65c841170800000000000000
+      internalID: 8148291930259611260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1686
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf0c4a9d28b19ac0800000000000000
+      internalID: -3850093700423348289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1686
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8c5c4325759fe0800000000000000
+      internalID: -1182910532649448026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1686
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1059cd40a30a1350800000000000000
+      internalID: 5988102641577185307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1686
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f94e63ded4a56b0800000000000000
+      internalID: -5306843529679167718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1686
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0772d24ea3b170800000000000000
+      internalID: 8193083749139156874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1687
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b3ca933d742190800000000000000
+      internalID: -7988122178455095733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1686
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b0b0dfa76c2880800000000000000
+      internalID: -8634412380757904128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1686
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e60ef3d693678b0800000000000000
+      internalID: -5154869582093062586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1686
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1357437ee517960800000000000000
+      internalID: 7597958393461289448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1609
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c39b4dd43ab0440800000000000000
+      internalID: 4903192173999635484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1608
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12062d9a44439ff0800000000000000
+      internalID: -30605685206679012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1609
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991920b7c0742420800000000000000
+      internalID: 2604330487483275672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1609
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b605db44992899d0800000000000000
+      internalID: -2767416254115019081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1608
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d059ce216076e64c0800000000000000
+      internalID: -4292380119052544755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1608
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcb070e89beefb40800000000000000
+      internalID: 5476073238762142900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1608
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc73e12c79464760800000000000000
+      internalID: 7441716231769652427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1607
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3958479e1f057140800000000000000
+      internalID: 4716692808801999163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_18
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1607
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fda11973b4a8110800000000000000
+      internalID: 1263905347460587416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_19
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d5487a3bbf26a0800000000000000
+      internalID: -6471748279707772783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1529
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7dab018dcd7bf0800000000000000
+      internalID: -324877643970413744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1529
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a023d67cc9e90020800000000000000
+      internalID: 2308633348380237993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1529
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beea194b3ea029e90800000000000000
+      internalID: -7020536896013881621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1530
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395722e16a2230550800000000000000
+      internalID: 6125778015019496851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1530
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef787a015e082320800000000000000
+      internalID: 2533290531626713058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1530
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4d5ca3b7928970800000000000000
+      internalID: 8755727423508401498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1531
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7cd39700920600800000000000000
+      internalID: 433066876400859687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_27
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1539
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7401d55daad973d0800000000000000
+      internalID: -3208292821520808835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_28
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1528
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83a246f1289d640800000000000000
+      internalID: 5105254723937253560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_29
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1530
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f62f81f3abd505a0800000000000000
+      internalID: -6555592185389046031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1466
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1999349226fb600800000000000000
+      internalID: 486215214146621945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1467
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ca4e5174f1a190800000000000000
+      internalID: -7952806699209143871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1465
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cfe96a16e84690800000000000000
+      internalID: -7617585768576333823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1468
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aeb56f457835560800000000000000
+      internalID: 7301328219877927436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1453
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3488939e364ab480800000000000000
+      internalID: -8882710080456719297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1453
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445f10dc7ba84670800000000000000
+      internalID: 8523250847354672207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_36
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1461
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f22b9ab49e1370800000000000000
+      internalID: 8295231092850620418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_37
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1461
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb6e26bb2b56d30800000000000000
+      internalID: 4424138726849297396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_38
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1452
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb668dae55944360800000000000000
+      internalID: 7153006342041922495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_39
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1455
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638db5ac751cbfff0800000000000000
+      internalID: -1194792082221002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1376
+        width: 19
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08392398ea2d3be0800000000000000
+      internalID: -1495992322827405301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1378
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ab419d97761fe0800000000000000
+      internalID: -1218655130525915971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1375
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e95c841891fbc0800000000000000
+      internalID: -3751049800601442932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_43
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1366
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35366b17bd6896f90800000000000000
+      internalID: -6959883472060652717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1374
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486eb391eaf42f4d0800000000000000
+      internalID: -3102329584138590588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1382
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0066fb6ddb41f0800000000000000
+      internalID: -1059509831550891063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_46
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1375
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186518fc4d37ee00800000000000000
+      internalID: 1073894436940113940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1379
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57534f580c61efaa0800000000000000
+      internalID: -6125433427040389771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1374
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf42dca6fa822b60800000000000000
+      internalID: 7719885503332503486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1374
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d9d31f8d7408f0800000000000000
+      internalID: -575196798929741492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1293
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1d83676f089a00800000000000000
+      internalID: 763377073565539253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1292
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3cf7ac4342d5ff0800000000000000
+      internalID: -45840612049566771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_52
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1295
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5974e361926238790800000000000000
+      internalID: -7529132194124642411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_53
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1296
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbbd3902af90d90800000000000000
+      internalID: -7130893517137921052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_54
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1296
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56632603d16ff64b0800000000000000
+      internalID: -5444862819241413019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_55
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1296
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e932f06ec7342a70800000000000000
+      internalID: 8801220931318069728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_56
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1296
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045eb4b1193bdec80800000000000000
+      internalID: -8291773903109626560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_57
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1296
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887e5a5dd6aa23e60800000000000000
+      internalID: 7940596481720182664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_58
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1296
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e20a63ff8f98a520800000000000000
+      internalID: 2713594216103674592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_59
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1296
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f63bbf317622350800000000000000
+      internalID: 5990463789881061254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1218
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ee8b036a06cd60800000000000000
+      internalID: 7910021216034809265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_61
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1218
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b7328331996720800000000000000
+      internalID: 2839960690447855836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1219
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90c50707aacfc50800000000000000
+      internalID: 6700417745518594521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_63
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1220
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae162c19adfc30e0800000000000000
+      internalID: -2288675607847493974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_64
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1218
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbbb3d989608ef40800000000000000
+      internalID: 5757859376135912406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1218
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac71ee3ec48cff0800000000000000
+      internalID: -15678056859972946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_66
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1218
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17fb5fd1ac863b0800000000000000
+      internalID: -5518939113316716078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1218
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3523f82e02bdfb0800000000000000
+      internalID: -4622064435128544334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_68
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1218
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70420cd76acf66fd0800000000000000
+      internalID: -2348912363622620153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_69
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1218
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89213aa9a9f5960f0800000000000000
+      internalID: -1123261514428247400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1140
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5174cf6149870a90800000000000000
+      internalID: -7347753352890650276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1140
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb22bdcf4bc5c4c0800000000000000
+      internalID: -4267781528249816119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1140
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90ae1673508370b0800000000000000
+      internalID: -5732096804760149862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1140
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d51377627455b0800000000000000
+      internalID: -5380549866162891636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_74
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1140
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912d5f2bcf6739dd0800000000000000
+      internalID: -2480508142044720615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_75
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1140
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e12a6e2d00ab8a0800000000000000
+      internalID: -6288713023856959997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_76
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1140
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b37d4cce7a2d90800000000000000
+      internalID: -7121740444795162139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_77
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1140
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b6c813d7170c30800000000000000
+      internalID: 4325452162533865669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_78
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1140
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28b5ae68ab50c00800000000000000
+      internalID: 866303591958938281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_79
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1140
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34dbcb803fb4a9e0800000000000000
+      internalID: -1610952551467068354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1062
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d232d498b7bc01c0800000000000000
+      internalID: -4536048721270263084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1062
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8818ade3a9ac7e0800000000000000
+      internalID: -1744412310908073746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_82
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1062
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79866d9cfa08dc40800000000000000
+      internalID: 5537187821940803966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1062
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b7bddd094d3670800000000000000
+      internalID: 8520046393958054206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1062
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae04f82392fb5d0800000000000000
+      internalID: -3044669525950666223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_85
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1062
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4d54d79bb996d0800000000000000
+      internalID: -2983147017378902273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_86
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1062
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c376ac05d9844ff0800000000000000
+      internalID: -52765747488328763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_87
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1063
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51799ec875ef955b0800000000000000
+      internalID: -5378988627937618155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_88
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1062
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01bb774da853200800000000000000
+      internalID: 159186006987968723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_89
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1062
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6c97b0bde1add30800000000000000
+      internalID: 4456908707375728341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 984
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dbf861fff7ac880800000000000000
+      internalID: -8589912605683892903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_91
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 984
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd8d3775ee141700800000000000000
+      internalID: 510066628696575426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 985
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee123ccac9f5cc520800000000000000
+      internalID: 2723657001170313710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_93
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 985
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9fd8f2acc8a320800000000000000
+      internalID: 2569528587747040747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_94
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 985
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2022cf91ef7830800000000000000
+      internalID: 4071220664439156435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_95
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 985
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a051601284fea160800000000000000
+      internalID: 7038832107084402854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_96
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 984
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6560b3452a7446550800000000000000
+      internalID: 6153121753418368598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 984
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835656ace38581a00800000000000000
+      internalID: 727428366527194424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_98
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 984
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665333de310420180800000000000000
+      internalID: -9150681038535314074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_99
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 984
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f1a90ee2c58b920800000000000000
+      internalID: 3006254107676253987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_100
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 906
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdeb85cf44c76c30800000000000000
+      internalID: 4352663411772616113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_101
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 906
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a05836951bf1670800000000000000
+      internalID: 8511716818233395739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_102
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 906
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4fbcdbc92c7d10800000000000000
+      internalID: 2124619079770655469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_103
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 907
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d29b1dc42714910800000000000000
+      internalID: 1819861398696045965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_104
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 906
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad33b599a5db880800000000000000
+      internalID: -8593612899246417321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_105
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 906
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd73c554149e6e0800000000000000
+      internalID: -1807842009256828976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_106
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 906
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12af26d69201302d0800000000000000
+      internalID: -3313787130699646431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_107
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 907
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2560ceb91e8b9700800000000000000
+      internalID: 548188020881253674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_108
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 906
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dd47479327c8670800000000000000
+      internalID: 8542328184307506509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_109
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 906
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7679c547ddf9590800000000000000
+      internalID: -7665164548921923649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 828
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20cbf11ab50e560800000000000000
+      internalID: 7340968140194185962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_111
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 828
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c923590c3920a600800000000000000
+      internalID: 477426898332494277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_112
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 828
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f105395074acc90800000000000000
+      internalID: -7148823369225330875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_113
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 828
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6082ee1fcd69d0800000000000000
+      internalID: -2779337663461692471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_114
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 828
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a427810ad922d1df0800000000000000
+      internalID: -207971947398008246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_115
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 826
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e99b9cddc2b8a0800000000000000
+      internalID: -6290739382096109113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_116
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 829
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f8041715b4ab020800000000000000
+      internalID: 2358280168046366594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_117
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 840
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8bbd3c7bfbc2c0800000000000000
+      internalID: -4410154899049050248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_118
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 829
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1a17c379260570800000000000000
+      internalID: 8432472929536187496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_119
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 828
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad724f704667370800000000000000
+      internalID: 8319947346937371324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_120
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 750
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2561fc2505c39a0800000000000000
+      internalID: -6252033866105204038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_121
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 750
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e82ecec4abe070800000000000000
+      internalID: 8136778359903936726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_122
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 750
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bac7e1717664360800000000000000
+      internalID: 7153518407118007047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_123
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 751
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d991b19d4612e7f0800000000000000
+      internalID: -584880479192114736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_124
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 751
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc49e00d3b6da940800000000000000
+      internalID: 5309017445492149492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_125
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 750
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cfaa87ec2898c20800000000000000
+      internalID: 3209240032777534609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_126
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 750
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51db211bd43e570800000000000000
+      internalID: 8494718745069819316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_127
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 750
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebd1f82d98923360800000000000000
+      internalID: 7147943359354625004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_128
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 750
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef90883778aac0e0800000000000000
+      internalID: -2248799833915613208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_129
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 750
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb19eb60617a370800000000000000
+      internalID: 8333653853695229461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_130
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 672
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6132076332cb15e0800000000000000
+      internalID: -1937741688625548948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_131
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 672
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd65a7a8ff25bb0800000000000000
+      internalID: -4948612070303670445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 672
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef404f2293dff30800000000000000
+      internalID: 4610904415782895301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_133
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 672
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b12e490ab1c4160800000000000000
+      internalID: 7011009096415583114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_134
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 672
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb39f7f7ff3e4420800000000000000
+      internalID: 2616098767798614965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_135
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 672
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0034fec90d32b0800000000000000
+      internalID: -5603311576914325718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_136
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 672
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7b337b20b48c00800000000000000
+      internalID: 902039526044302699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_137
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 672
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d3b3edd57c1310800000000000000
+      internalID: 1377105181936965444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_138
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e5e4a359958490800000000000000
+      internalID: -7744615399665834901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_139
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 672
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bda92318250bb40800000000000000
+      internalID: 5453949863598938947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_140
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 594
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b89832763247140800000000000000
+      internalID: 4716433635648572299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_141
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 592
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18daaa47dd16f90800000000000000
+      internalID: -6962040055788633674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_142
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 593
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247a9df18d1fc660800000000000000
+      internalID: 7408172356190499882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_143
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 590
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b017f01a702f84b0800000000000000
+      internalID: -5436090516570173255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_144
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 599
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c2e4d7152b0e70800000000000000
+      internalID: 9082393857808845169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_145
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 595
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7326f8987f94140800000000000000
+      internalID: 4704563455953352680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_146
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 596
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c764c21e5cc3b860800000000000000
+      internalID: 7544598505189566401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_147
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 594
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6674a04856650f850800000000000000
+      internalID: 6408717263755167590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_148
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 606
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d795b8421464bd40800000000000000
+      internalID: 5599210266420418513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_149
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 593
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6a523821dab750800000000000000
+      internalID: 6321594997541596151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 515
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725e8ed22ea930a0800000000000000
+      internalID: -6901293489182584205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_151
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 513
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b240e35ebb3047570800000000000000
+      internalID: 8463393705275819051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_152
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 514
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f85f4c4822645f0800000000000000
+      internalID: -772892332412006572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_153
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 515
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a19c3407656fc0800000000000000
+      internalID: -3502279867316983988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_154
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 516
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cd1e31539ea9a30800000000000000
+      internalID: 4222944014789368983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_155
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 516
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d64c91eac3aec0800000000000000
+      internalID: -3556776210354220276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_156
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 516
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d255727300446e60800000000000000
+      internalID: 7954553225392509655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_157
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 516
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b4ad18baae93a0800000000000000
+      internalID: -6656695491458976232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_158
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 516
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024e696a29e1cfe70800000000000000
+      internalID: 9150222158118970400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_159
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 516
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d338fe77a299e90800000000000000
+      internalID: -7018531849672376954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_160
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 438
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36f3f2989c9ea1f0800000000000000
+      internalID: -1031715085506841027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_161
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 438
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eb8070b2367c590800000000000000
+      internalID: -7654040005240111470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_162
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 438
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92213efb6f3c076e0800000000000000
+      internalID: -1841756783045832151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_163
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 455
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1076eebc6764c070800000000000000
+      internalID: 8125733344440119326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_164
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 428
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb8933c8fdcbf50800000000000000
+      internalID: 6898634522478821278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_165
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 468
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fab02fd574bb0e0800000000000000
+      internalID: -2253128719750418634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_166
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 458
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ca9346d66a144f0800000000000000
+      internalID: -846212266205795284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_167
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 465
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa864a58f5066270800000000000000
+      internalID: 8243282732172872352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_168
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 454
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac918ced2ee6a01e0800000000000000
+      internalID: -2230848744729339446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_169
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 432
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752253fc0f424d9b0800000000000000
+      internalID: -5056375864943107497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_170
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 454
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f3d48f4c87a3e0800000000000000
+      internalID: -2042509632830440974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_171
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 438
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a625f43e2922510800000000000000
+      internalID: 1522941128990681756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_172
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 438
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b641b5fab1aa94c0800000000000000
+      internalID: -4279930671504210255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_173
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 371
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16985e5583a871c90800000000000000
+      internalID: -7199133504764540575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_174
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 371
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed38e6211998c170800000000000000
+      internalID: 8198971420574236143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_175
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 371
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd795cd178d31d0800000000000000
+      internalID: -3369388384264396835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_176
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 371
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77419f8e6a02c8480800000000000000
+      internalID: -8895699262718274441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_177
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 371
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf43d712819b5a0800000000000000
+      internalID: -6505141654646358867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_178
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 368
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6943a354ed0fa0800000000000000
+      internalID: -5832754894502008283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_179
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 366
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa502103e0f941d0800000000000000
+      internalID: -3365894388715595020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_180
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 367
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55136a696cdb8180800000000000000
+      internalID: -9111947075739511458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_181
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 367
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d63c2a7144e940800000000000000
+      internalID: 5324452652442376374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_182
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 371
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3fdfcac68f90210800000000000000
+      internalID: 1299843113115579309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 317
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c6d1cfa167a6f0800000000000000
+      internalID: -673462211769349955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_184
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 317
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32511c2f92327b0800000000000000
+      internalID: -5250306617985653790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_185
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 317
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6da62f362622a50800000000000000
+      internalID: 6494861794030048942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_186
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 317
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16387dc0186fb80800000000000000
+      internalID: -8361353766011444752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_187
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 317
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb4eedb4b75d8e0800000000000000
+      internalID: -1669292521078604376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_188
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 317
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f079e5761a2a140800000000000000
+      internalID: 4729520024033103704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_189
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 317
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d192ff2674ea70800000000000000
+      internalID: 8855332715622422645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_190
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 317
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c7bc477a7baa2f0800000000000000
+      internalID: -960753640643265460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_191
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 317
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95271f3b6dd913630800000000000000
+      internalID: 3905075897374437977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 317
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feebdab48511d0c20800000000000000
+      internalID: 3174212383290539759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_193
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 263
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f0cee2b2b6afb30800000000000000
+      internalID: 4321884625630400331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_194
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 198
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc2237b518af7d0800000000000000
+      internalID: -2883850381603714222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_195
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad839b0c5ea9a8780800000000000000
+      internalID: -8679955020231657254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_196
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 199
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3687802bbaf74750800000000000000
+      internalID: 6289271086257767996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_197
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 199
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8243150c3c27f6f60800000000000000
+      internalID: 8029762845695620136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_198
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 210
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f6aff113d42630800000000000000
+      internalID: 3901475251466727581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_199
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 195
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ab511272572c20800000000000000
+      internalID: 3181602311631512833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_200
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 195
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda8554295b316f0800000000000000
+      internalID: -715028275988484685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_201
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 196
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b338791648b5a0f80800000000000000
+      internalID: -8139592752387620037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_202
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 197
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc73ef0046602b0800000000000000
+      internalID: -5618693529670266991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_203
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 198
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846cc287745549c00800000000000000
+      internalID: 906443190455551560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_204
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 137
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bb46eff9f91e860800000000000000
+      internalID: 7557497159221033800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 137
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d7b001101ed2e0800000000000000
+      internalID: -2099222711095536207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_206
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 137
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d08058e3d8c6f60800000000000000
+      internalID: 8028947535354137876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_207
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b13c6dd9f68c00800000000000000
+      internalID: 902683504732649634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_208
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 137
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee30a2a8427b5030800000000000000
+      internalID: 3484504392992833254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_209
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 137
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2915e8361a45eeff0800000000000000
+      internalID: -4973497444052590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_210
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 137
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d68e9bf2ca109670800000000000000
+      internalID: 8543357917869278928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_211
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 137
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6460550a70018000800000000000000
+      internalID: 36310796070839402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_212
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9a76484c4b0a590800000000000000
+      internalID: -7664927809656608309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_213
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbd442732bdf3420800000000000000
+      internalID: 2612047254185630651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_214
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0697d530c192c1130800000000000000
+      internalID: 3538748607498647904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_215
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 65
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942a917f92416f20800000000000000
+      internalID: 3414083245096707223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_216
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 65
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87188afcab84d960800000000000000
+      internalID: 7625873644098951054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_217
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 65
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739561d24d824df0800000000000000
+      internalID: -197440115530427532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_218
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 65
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6ed0707b5134ff0800000000000000
+      internalID: -53174894756763911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_219
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 65
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0123400da9dddf310800000000000000
+      internalID: 1440551112813064720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_220
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 65
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e0fba88b0803b0800000000000000
+      internalID: -5546170259478617244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_221
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 65
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd39b1fd86ec7080800000000000000
+      internalID: -9188215642422428195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_222
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1285c2031d07f41c0800000000000000
+      internalID: -4517267857470629855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_223
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716a9a256d5c82e0800000000000000
+      internalID: -2122218635310505607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_224
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 156
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac54b9845d0c28bf0800000000000000
+      internalID: -323484200938551862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
